@@ -9,4 +9,6 @@ PyTorch implementation of various neural networks for study.
 ## RNN - Recurrent Neural Network
 ### /RNN_tutorial
 Copying the [pytorch tutorial](https://tutorials.pytorch.kr/intermediate/char_rnn_classification_tutorial "go to pytorch tutorial").
+### /RNN_and_LSTM
+Implementation of LSTM based on [RNN_tutorial](#rnn_tutorial). Existing code was modularized and utilized. Compared the result of trained models RNN and LSTM.
 
