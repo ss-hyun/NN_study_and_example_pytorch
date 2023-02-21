@@ -1,0 +1,3 @@
+[submodule "ViT_for_study"]
+	path = ViT_for_study
+	url = https://github.com/ss-hyun/ViT.git
