@@ -12,3 +12,10 @@ Copying the [pytorch tutorial](https://tutorials.pytorch.kr/intermediate/char_rn
 ### /RNN_and_LSTM
 Implementation of LSTM based on [RNN_tutorial](#rnn_tutorial). Existing code was modularized and utilized. Compared the result of trained models RNN and LSTM.
 
+### /ViT_for_study
+ViT Implementation Repository with Descriptions for Understanding ViT Structure.  
+Forked from [FrancescoSaverioZuppichini's GitHub Repo](https://github.com/FrancescoSaverioZuppichini/ViT)
+
+### /ViT_implementation
+Various ViT model Implementation Repository.  
+Forked from [lucidrains's GitHub Repo](https://github.com/lucidrains/vit-pytorch)
